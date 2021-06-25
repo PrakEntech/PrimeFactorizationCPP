@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624534805 source:c:\users\prakh\desktop\wy\wy\main.cpp
+	<windows.h>
+	<string>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+
